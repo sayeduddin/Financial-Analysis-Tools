@@ -1,5 +1,5 @@
 # Financial-Analysis-Tools
-Contains various tools I personally use to extract insights regarding particular stocks as well as the broader market. 
+Contains various rudimentary tools I personally use to extract insights regarding particular stocks as well as the broader market using web scraping, pandas and matplotlib. 
 
 ## Get_Data
 Requirements: Pandas, Requests
